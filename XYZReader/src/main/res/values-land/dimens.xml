@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- detail -->
+    <dimen name="detail_meta_bar_height">128dp</dimen>
+    <dimen name="detail_app_bar_extended_height">288dp</dimen>
+    <dimen name="detail_meta_bar_padding">72dp</dimen>
+    <dimen name="detail_image_height">160dp</dimen>
+    <dimen name="detail_body_margins_padding">36dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- list -->
+    <integer name="list_column_count">2</integer>
+    <!-- detail -->
+    <integer name="detail_article_title_max_lines">1</integer>
+</resources>
