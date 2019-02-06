@@ -1,3 +1,25 @@
 = XYZ Reader
 
 Udacity Android Developer Nanodegree Program Project 4.
+
+APP REQUIREMENTS:
+
+Redesign the XYZ Reader app, a mock RSS feed reader featuring banner photos and headlines, using starter code and mock user feedback provided by Udacity, to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
+
+The app must:
+
+- Use the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).
+
+- Use CoordinatorLayout for the main Activity.
+
+- Use an AppBar and associated Toolbars.
+
+- Properly specify elevations for app bars, FABs, and other elements specified in the Material Design specification.
+
+- Provide a Floating Action Button for the most common action(s).
+
+- Have a consistent color theme defined in styles.xml. Color theme does not impact usability of the app.
+
+- Provide sufficient space between text and surrounding elements.
+
+- Use images that are high quality, specific, and full bleed.
